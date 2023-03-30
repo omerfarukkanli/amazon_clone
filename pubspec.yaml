@@ -7,8 +7,10 @@ environment:
   sdk: '>=2.19.5 <3.0.0'
 
 dependencies:
+  dataclass_beta_generator: ^1.1.1
   flutter:
     sdk: flutter
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
